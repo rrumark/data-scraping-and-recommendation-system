@@ -1,4 +1,5 @@
 # web-store-data-scraping-and-recommendation-system-development-with-django
+![image](https://github.com/user-attachments/assets/8bc0b72f-2d9c-4627-b301-8e5fbd2cd294)
 
 A comprehensive Django project that leverages web scraping to extract data from an e-commerce platform, paired with a recommendation system to deliver customized product suggestions. Users can access personalized recommendations by logging into the system, where their preferences are taken into account. This project illustrates how Django can be effectively combined with machine learning techniques to elevate the user experience in e-commerce.
 
